@@ -8,7 +8,7 @@ The project is structured as follows:
 
 1. **Data Collection and Preprocessing**: This section outlines the steps taken to collect and preprocess the currency exchange data for analysis.
 
-2. **Analyzing Recent Market Behavior**: This section focuses on understanding recent market trends by analysing daily returns and adjusted close prices of currency pairs.
+2. **Analysing Recent Market Behavior**: This section focuses on understanding recent market trends by analysing daily returns and adjusted close prices of currency pairs.
 
     - **Time Series Visualisation**: Visualisations of daily returns and adjusted close prices are provided to highlight trends and patterns.
     - **Descriptive Statistics and Daily Returns Magnitude and Distribution**: Descriptive statistics are calculated to better understand the distribution of positive, negative, and neutral daily returns.
